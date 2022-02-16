@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Dantedavidson/rock-paper-scissors)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://620c73b1ea182872526d338e--amazing-almeida-7940ec.netlify.app/)
 
 ## My process
 
